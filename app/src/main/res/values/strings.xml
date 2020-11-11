@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ugadai_FILATOV_D</string>
+    <string name="behind">недолет!</string>
+    <string name="ahead">перелет!</string>
+    <string name="hit">ПОПАЛ!!!</string>
+    <string name="try_to_guess">Попробуйте угадать число от (1 &#8211; 100)</string>
+    <string name="error">Неверный ввод</string>
+
+    <string name="input_value">Ввести значение</string>
+    <string name="play_more">Сыграть еще?</string>
+</resources>
